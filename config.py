@@ -13,9 +13,9 @@ CONFIG = {
 
 # List of Akane image filenames (stored locally in the 'images' folder)
 AKANE_IMAGES = [
-    "akane1.jpg",  # Replace with your actual image filenames
-    "akane2.jpg",
-    "akane3.jpg",
+    "f981519f1d6856ed2b71785a8cf5a27e.jpg",  # Replace with your actual image filenames
+    "e6e98a4da59ddb8dbd7cc447b2e23b86.jpg",
+    "12f0a1a02fa69a9e8157bfaf96225c34.jpg",
     "akane4.jpg",
     "akane5.jpg"
 ]
