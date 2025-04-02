@@ -16,6 +16,6 @@ AKANE_IMAGES = [
     "f981519f1d6856ed2b71785a8cf5a27e.jpg",  # Replace with your actual image filenames
     "e6e98a4da59ddb8dbd7cc447b2e23b86.jpg",
     "12f0a1a02fa69a9e8157bfaf96225c34.jpg",
-    "akane4.jpg",
-    "akane5.jpg"
+    "bd06528ce497d2cdd8ff32c6a412f471.jpg",
+    "a0f29aaf659f9816659e03ba2ddbde56.jpg"
 ]
