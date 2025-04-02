@@ -7,7 +7,7 @@ CONFIG = {
         "OWNER_ID": 2104057670  # Owner's Telegram ID
     },
     "MONGO": {
-        "URI": "mongodb+srv://akanebot:9Y08RIfeJEuPITxB@cluster0.mongodb.net/akanebot?retryWrites=true&w=majority"  # Replace with your MongoDB URI
+        "URI": "mongodb+srv://akanebot:9Y08RIfeJEuPITxB@akanebot.i30jwc4.mongodb.net/?retryWrites=true&w=majority&appName=akanebot"  # Replace with your MongoDB URI
     }
 }
 
