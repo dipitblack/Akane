@@ -3,7 +3,11 @@ CONFIG = {
     "TELEGRAM": {
         "API_ID": 19274214,
         "API_HASH": "bf87adfbc2c24c66904f3c36f3c0af3a",
-        "BOT_TOKEN": "5866337442:AAHuRxeQ4ZjFB-hmVhQWwOAZyclIU8CbYJM"
+        "BOT_TOKEN": "5866337442:AAHuRxeQ4ZjFB-hmVhQWwOAZyclIU8CbYJM",
+        "OWNER_ID": 2104057670  # Owner's Telegram ID
+    },
+    "MONGO": {
+        "URI": "mongodb+srv://akanebot:9Y08RIfeJEuPITxB@cluster0.mongodb.net/akanebot?retryWrites=true&w=majority"  # Replace with your MongoDB URI
     }
 }
 
