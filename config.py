@@ -3,7 +3,7 @@ CONFIG = {
     "TELEGRAM": {
         "API_ID": 19274214,
         "API_HASH": "bf87adfbc2c24c66904f3c36f3c0af3a",
-        "BOT_TOKEN": "5866337442:AAHuRxeQ4ZjFB-hmVhQWwOAZyclIU8CbYJM",
+        "BOT_TOKEN": "7521862287:AAEu_R75BUWo5TWpiYSpBi9Tfp1UPHCXatw",
         "OWNER_ID": 2104057670  # Owner's Telegram ID
     },
     "MONGO": {
